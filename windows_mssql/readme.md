@@ -1,3 +1,8 @@
+## 更改了 base image 版本至 windows servercore 2019
+# 注意:此 dockerfile 需在 windows 10 下建置
+ 
+
+
 ## Note: The SQL Server Express on Windows image is not supported for production use. If you have a need to use SQL Server on Windows containers in production, please sign up for the Early Adoption Preview at https://aka.ms/sqleap
 
 # mssql-server-windows-express
